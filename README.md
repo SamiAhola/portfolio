@@ -1,2 +1,2 @@
 # portfolio
-A showcase of my skills and technologies in action.
+A showcase of select technologies and my skills in action.
