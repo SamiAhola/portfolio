@@ -11,3 +11,5 @@ Code is presented in Jupyter Notebook format with help of Jupyter Notebook Viewe
 
 ## Remote Sensing
 - [Forest height calculation by using open remote sensing data](https://samiahola.github.io/portfolio/notebook/pre-rendered/RemoteSensing.html) _(Lidar, Ortho imaging, Weather data, geodata, projections)_
+  ![forestheight](https://user-images.githubusercontent.com/8090944/134043271-f1740c47-129b-4823-b370-5e44f33873b1.png)
+
