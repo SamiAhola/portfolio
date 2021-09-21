@@ -1,6 +1,7 @@
-# portfolio
-A showcase of select technologies and my skills in action.
-Code is presented in Jupyter Notebook format with help of Jupyter Notebook Viewer ([nbviewer](https://nbviewer.jupyter.org/)).
+# Sami Ahola's Notebook Portfolio
+This is a collection Jupyter Notebooks demonstrating my skills on various topics ranging from programming languages to deep learning. The portfolio will be updated regularly to include new and some interesting older skills and topics.
+
+Code is presented in Jupyter Notebook format with help of Jupyter Notebook Viewer ([nbviewer](https://nbviewer.jupyter.org/)). Sometimes nbviewer is not able to present notebooks with large amounts of information, then the notebooks are best presented as pre-rendered html-page. Note that in either case, it is not possible to directly edit/execute the code cells. However this is possible through Binder or other 3rd party notebook service (there is link to Binder from nbviewer.)
 
 ## Python Language
 - [Python 3.10 new features:](https://nbviewer.jupyter.org/github/SamiAhola/portfolio/blob/main/notebook/Python3.10_NewFeatures.ipynb?flush_cache=true)
